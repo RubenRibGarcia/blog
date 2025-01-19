@@ -1,0 +1,10 @@
+- type: github
+  icon: "fab fa-github"
+
+- type: linkedin
+  icon: 'fab fa-linkedin'
+  url:  'https://www.linkedin.com/in/rubenribeirogarcia/'                  # Fill with your Linkedin homepage
+
+- type: email
+  icon: "fas fa-envelope"
+  noblank: true
