@@ -2,9 +2,9 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://localhost:4000/</id>
-  <title>Rúben Ribeiro Garcia</title>
+  <title>Rúben Ribeiro Blog</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2025-01-19T17:24:19+00:00</updated>
+  <updated>2025-01-21T11:40:37+00:00</updated>
   <author>
     <name>Rúben Ribeiro Garcia</name>
     <uri>http://localhost:4000/</uri>
